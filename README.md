@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=transparent&color=1C768F&height=100&section=header&text=DaeEun&fontSize=45&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=1C768F&height=80&section=header&text=DaeEun&fontSize=45&fontColor=ffffff)
 
 👋Hi there!<br/>
 I'm learning for FE developer<br/>
