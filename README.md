@@ -18,15 +18,14 @@ I always pursue new things!💡<br/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=Redux&logoColor=black">
   <br/>
-  used at least once
-    <br/>
-  <img src="https://img.shields.io/badge/Recoil-61DAFB?style=for-the-badge&logo=Recoil&logoColor=black">
-  <img src="https://img.shields.io/badge/swr-000000?style=for-the-badge&logo=swr&logoColor=white">
+
 
   
  # Learning...
   <br/>
   <img src="https://img.shields.io/badge/react Query-FF4154?style=for-the-badge&logo=react-Query&logoColor=black"> 
+   <img src="https://img.shields.io/badge/Recoil-61DAFB?style=for-the-badge&logo=Recoil&logoColor=black">
+  <img src="https://img.shields.io/badge/swr-000000?style=for-the-badge&logo=swr&logoColor=white">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
   <br/>
