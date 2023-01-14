@@ -32,7 +32,6 @@ I always pursue new things!💡<br/>
   
   # Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dae-une&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ![image](https://user-images.githubusercontent.com/104764474/196263924-12a26fd3-3fa9-4d60-8b50-c9d96cc1a93f.png)
+
 
 </div>
